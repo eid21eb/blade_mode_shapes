@@ -1,6 +1,6 @@
 # Blade 1 Mode Shapes
 
-This page displays animated mode shapes of Blade 1, Modes 1–5.
+This page displays animated mode shapes of Blade 1, Modes 1–5. The speed of each GIF is scaled proportionately to its mode's natural frequency. Approx 780x slower than real time.
 
 <table>
   <tr>
